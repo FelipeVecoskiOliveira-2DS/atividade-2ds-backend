@@ -5,7 +5,7 @@ Este projeto foi criado para colocar em prática a criação e edição de arqui
 
 O objetivo do projeto é demonstrar como estruturar uma boa documentação inicial para repositórios de código. 
 
-**Público-alvo:** Este projeto foi criado para estudantes e desenvolvedores que desejam aprender a documentar seus sistemas adequadamente. *(Desafio concluído!)*
+**Público-alvo:** Este projeto foi criado para estudantes e desenvolvedores que desejam aprender a documentar seus sistemas adequadamente.
 
 ## 🚧 Status do Projeto
 (X) Em desenvolvimento  
@@ -15,6 +15,8 @@ O objetivo do projeto é demonstrar como estruturar uma boa documentação inici
 - Apresentar as informações principais de um repositório.
 - Documentar o status e o objetivo do sistema.
 - Listar as tecnologias e ferramentas utilizadas.
+- Facilitar o entendimento do código para outros programadores.
+- Utilizar formatação Markdown para organizar a leitura.
 
 ## 💻 Tecnologias Utilizadas
 
@@ -25,9 +27,9 @@ O objetivo do projeto é demonstrar como estruturar uma boa documentação inici
 ![SQL](https://img.shields.io/badge/Sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 📁 Acesso ao Projeto
-O projeto pode ser acessado no meu repositório do GitHub: `atividade-2ds-backend`.
+O projeto pode ser acessado no meu repositório: [atividade-2ds-backend](https://github.com/FelipeVOliveira-Escola/atividade-2ds-backend)
 
 ## 👨‍💻 Autor
 Nome: Felipe Veçoski De Oliveira
 
-GitHub: https://github.com/FelipeVOliveira-Escola
+GitHub: [FelipeVOliveira-Escola](https://github.com/FelipeVOliveira-Escola)
