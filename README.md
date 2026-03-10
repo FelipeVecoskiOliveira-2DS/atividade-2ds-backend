@@ -48,4 +48,4 @@ O projeto pode ser acessado no meu repositório: [atividade-2ds-backend](https:/
 ## 👨‍💻 Autor
 **Nome:** Felipe Veçoski De Oliveira
 
-**GitHub:** [FelipeVOliveira-Escola](https://github.com/FelipeVecoskiOliveira-2DS)
+**GitHub:** [FelipeVOliveira-2°DS](https://github.com/FelipeVecoskiOliveira-2DS)
