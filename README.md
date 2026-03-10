@@ -17,9 +17,12 @@ O objetivo do projeto é demonstrar como estruturar uma boa documentação inici
 - Listar as tecnologias e ferramentas utilizadas.
 
 ## 💻 Tecnologias Utilizadas
-- Markdown
-- Git
-- GitHub
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/Sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 📁 Acesso ao Projeto
 O projeto pode ser acessado no meu repositório do GitHub: `atividade-2ds-backend`.
