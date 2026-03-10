@@ -27,6 +27,6 @@ O objetivo do projeto é demonstrar como estruturar uma boa documentação inici
 O projeto pode ser acessado no meu repositório do GitHub: `atividade-2ds-backend`.
 
 ## 👨‍💻 Autor
-Nome: [Escreva seu nome aqui]
+Nome: Felipe Veçoski De Oliveira
 
-GitHub: [Coloque o link do seu perfil aqui, ex: github.com/seu-usuario]
+GitHub: https://github.com/FelipeVOliveira-Escola
